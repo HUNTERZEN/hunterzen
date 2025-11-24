@@ -1,5 +1,5 @@
-# 💫 About Me:
-💫 Hi 👋, I'm Kunal Singha<br>A passionate Android Rom Developer  || Backend Developer || CTO of Aternex Solutions<br><br>Email Me 👉 ✉️ kunalsingha390@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: Android Rom Developement<br>🌱 I’m currently learning: Cybersecurity<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: kunalsingha390@gmail.com
+# 💫 Hi 👋, I'm Kunal Singha
+A passionate Android Rom Developer  || Backend Developer || CTO of Aternex Solutions<br><br>Email Me 👉 ✉️ kunalsingha390@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: Android Rom Developement<br>🌱 I’m currently learning: Cybersecurity<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: kunalsingha390@gmail.com
 
 
 # 💻 Tech Stack:
