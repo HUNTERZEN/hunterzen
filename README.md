@@ -23,7 +23,7 @@ A passionate Android Rom Developer  || Backend Developer || CTO of Aternex Solut
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HUNTERZEN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hunterzen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HUNTERZEN&icon=0&color=0)](https://visitcount.itsvg.in)
